@@ -1,6 +1,7 @@
+name: Sonarqube file for static code analysis
+
 jobs:
   build:
-  
     runs-on: ubuntu-latest
     
     steps:
