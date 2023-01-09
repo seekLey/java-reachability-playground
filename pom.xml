@@ -30,9 +30,9 @@
     <scope>test</scope>
 </dependency>
     </dependencies>
-     <build>
+      <build>
         <plugins>
-        <plugin>
+         <plugin>
                 <groupId>org.jacoco</groupId>
                <artifactId>jacoco-maven-plugin</artifactId>
                 <version>0.8.7</version>
@@ -56,8 +56,6 @@
                   </execution>
                 </executions>
               </plugin>
-       </plugins>
-              </build>
-</project>
-
+           </plugins>
+         </build>
 </project>
