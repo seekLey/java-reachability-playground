@@ -1,4 +1,5 @@
 name: Sonarqube file for static code analysis
+on: push
 
 jobs:
   build:
